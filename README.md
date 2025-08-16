@@ -4,7 +4,7 @@ This public repository contains my solution for the **"Build a Polygon Area Calc
 
 ## Project Overview
 This project uses object-oriented programming to implement two classes, `Rectangle` and `Square`.  
-The `Square` class is a subclass of `Rectangle`, inheriting its methods and attributes while adding specialized functionality.
+The `Square` class is a subclass of `Rectangle`, which inherits its methods and attributes while adding specialized functionality.
 
 ### Features:
 - **Rectangle Class**
