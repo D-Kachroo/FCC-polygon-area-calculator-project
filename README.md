@@ -3,8 +3,7 @@
 This public repository contains my solution for the **"Build a Polygon Area Calculator"** project from the **freeCodeCamp Scientific Computing with Python** certification.
 
 ## Project Overview
-This project uses object-oriented programming to implement two classes, `Rectangle` and `Square`.  
-The `Square` class is a subclass of `Rectangle`, which inherits its methods and attributes while adding specialized functionality.
+This project uses object-oriented programming to implement two classes, `Rectangle` and `Square`. The `Square` class is a subclass of `Rectangle`, which inherits its methods and attributes while adding specialized functionality.
 
 ### Features:
 - **Rectangle Class**
