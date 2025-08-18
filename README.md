@@ -6,7 +6,7 @@ This public repository contains my solution for the **"Build a Polygon Area Calc
 This project uses object-oriented programming to implement two classes, `Rectangle` and `Square`. The `Square` class is a subclass of `Rectangle`, which inherits its methods and attributes while adding specialized functionality.
 
 ### Features:
-- **Rectangle Class**
+- **Rectangle Class**:
   - Initialize with `width` and `height`.
   - `set_width` and `set_height` methods to update dimensions.
   - `get_area`: Returns the area of the rectangle.
@@ -16,7 +16,7 @@ This project uses object-oriented programming to implement two classes, `Rectang
   - `get_amount_inside`: Returns how many times another shape can fit inside.
   - String representation: `Rectangle(width=5, height=10)`
 
-- **Square Class**
+- **Square Class**:
   - Subclass of `Rectangle`, initialized with a single `side` length.
   - Inherits all `Rectangle` methods.
   - `set_side`: Updates both width and height.
